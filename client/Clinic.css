@@ -1,0 +1,31 @@
+table {
+  border:1;
+  margin:5px;
+}
+
+td, th {
+  padding:12px;
+}
+
+button, input, label {
+  padding:5px;
+  margin:15px;
+}
+
+.inline {
+    display: inline-flex;
+}
+
+lable {
+    margin-bottom: 0px;
+}
+
+input {
+  margin-top: 5px;
+}
+
+form {
+    border: 8px #7cb34299 solid;
+    padding: 10px;
+    margin: 15px;
+    width: fit-content;}
