@@ -1,3 +1,4 @@
+
 const baseUrl = 'http://localhost:5263/api/';
 
 document.addEventListener('DOMContentLoaded', registerEvents);
